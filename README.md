@@ -32,7 +32,7 @@
 <div align="center">
 
 <img alt="GitHub stats" width="48%" src="https://github-readme-stats-gyeommis-projects.vercel.app/api?username=Gyeommi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=percentile"/>
-<img alt="Top languages" width="48%" src="https://github-readme-stats-gyeommis-projects.vercel.app/api/top-langs/?username=Gyeommi&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
+<img alt="Top languages" height="170" width="48%" src="https://github-readme-stats-gyeommis-projects.vercel.app/api/top-langs/?username=Gyeommi&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
 
 </div>
 

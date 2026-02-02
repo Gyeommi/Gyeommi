@@ -4,7 +4,7 @@
 
 **Game Developer | Unity & C# | Designing Experiences**
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-Gyeommi.github.io-black?style=flat-square&logo=githubpages&logoColor=white)](https://Gyeommi.github.io)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-Gyeommi.github.io-black?style=flat-square&logo=githubpages&logoColor=white)](https://github.com/Gyeommi)
 <!--[![Tistory Blog](https://img.shields.io/badge/TISTORY-BLOG-E7600A?style=flat-square&logo=tistory&logoColor=white)]()
 [![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=gyeommi)]()-->
 
@@ -42,6 +42,6 @@
 
 | 구분 | 링크 |
 |------|------|
-| 📁 Portfolio | [**Gyeommi.github.io**](https://Gyeommi.github.io) |
+| 📁 Portfolio | [**Gyeommi.github.io**](https://github.com/Gyeommi) |
 <!--| ✍️ Dev Blog | [**Gyeommi.tistory.com**]() |
 | 📘 Solved.ac | [**solved.ac/Gyeommi**]() |-->

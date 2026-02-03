@@ -4,7 +4,7 @@
 
 **Game Developer | Unity & C# | Designing Experiences**
 
-[![GitHub](https://img.shields.io/badge/GitHub-gyeommi-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Gyeommi)
+[![GitHub](https://img.shields.io/badge/GitHub-gyeommi-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gyeommi)
 [![Portfolio](https://img.shields.io/badge/Portfolio-gyeommi--dev-E7600A?style=flat-square&logo=tistory&logoColor=white)](https://gyeommi-dev.tistory.com/portfolio)
 [![Blog](https://img.shields.io/badge/Blog-Tistory-E7600A?style=flat-square&logo=tistory&logoColor=white)](https://gyeommi-dev.tistory.com/)
 
@@ -33,7 +33,7 @@
 
 <div align="center">
 
-<img alt="GitHub stats" height="170" width="48%" src="https://github-readme-stats-gyeommis-projects.vercel.app/api?username=Gyeommi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=percentile"/>
+<img alt="GitHub stats" height="170" width="48%" src="https://github-readme-stats-gyeommis-projects.vercel.app/api?username=gyeommi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=percentile"/>
 <img alt="Top languages" height="170" width="48%" src="https://github-readme-stats-gyeommis-projects.vercel.app/api/top-langs/?username=Gyeommi&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
 
 </div>
@@ -44,7 +44,7 @@
 
 | 구분 | 링크 |
 |------|------|
-| 💻 GitHub | [**github.com/Gyeommi**](https://github.com/Gyeommi) |
+| 💻 GitHub | [**github.com/gyeommi**](https://github.com/gyeommi) |
 | 📁 Portfolio | [**gyeommi-dev**](https://gyeommi-dev.tistory.com/portfolio) |
 | ✍️ Dev Blog | [**gyeommi-dev.tistory.com**](https://gyeommi-dev.tistory.com/) |
 | 📘 Solved.ac | [**solved.ac/profile/km01**](https://solved.ac/profile/km01) |

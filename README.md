@@ -2,19 +2,19 @@
 
 # 👾Gyeommi👾
 
-**Game Developer | Unity & C# | Designing Experiences**
+**Game Developer | Unity & C# | Interactive & Immersive Experiences**
 
 [![GitHub](https://img.shields.io/badge/GitHub-gyeommi-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gyeommi)
 [![Portfolio](https://img.shields.io/badge/Portfolio-gyeommi--dev-E7600A?style=flat-square&logo=tistory&logoColor=white)](https://gyeommi-dev.tistory.com/portfolio)
 [![Blog](https://img.shields.io/badge/Blog-Tistory-E7600A?style=flat-square&logo=tistory&logoColor=white)](https://gyeommi-dev.tistory.com/)
 
-[![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=km01)](https://solved.ac/profile/km01)
+[![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=km01)](https://www.acmicpc.net/user/km01)
 
 </div>
 
 ---
 
-## ✒Core Tech
+## 🛠 Core Tech
 
 ### Game Engines & Languages
 ![C#](https://img.shields.io/badge/C%23-512BD4.svg?style=plastic&logoColor=white)
@@ -29,7 +29,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Overview
 
 <div align="center">
 
@@ -47,4 +47,4 @@
 | 💻 GitHub | [**github.com/gyeommi**](https://github.com/gyeommi) |
 | 📁 Portfolio | [**gyeommi-dev**](https://gyeommi-dev.tistory.com/portfolio) |
 | ✍️ Dev Blog | [**gyeommi-dev.tistory.com**](https://gyeommi-dev.tistory.com/) |
-| 📘 Solved.ac | [**solved.ac/profile/km01**](https://solved.ac/profile/km01) |
+| 📧 Email | [**kkm417417@naver.com**](mailto:kkm417417@naver.com) |

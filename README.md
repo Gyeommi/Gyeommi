@@ -8,7 +8,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-gyeommi--dev-E7600A?style=flat-square&logo=tistory&logoColor=white)](https://gyeommi-dev.tistory.com/portfolio)
 [![Blog](https://img.shields.io/badge/Blog-Tistory-E7600A?style=flat-square&logo=tistory&logoColor=white)](https://gyeommi-dev.tistory.com/)
 
-<!--[![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=gyeommi)]()-->
+[![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=km01)](https://solved.ac/profile/km01)
 
 </div>
 
